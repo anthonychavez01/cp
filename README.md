@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 4 |
+| 4 | 4 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [greedy](#greedy) (1)
 - [implementation](#implementation) (1)
-- [math](#math) (2)
+- [math](#math) (3)
 
 ---
 
@@ -41,6 +41,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Python 3](https://github.com/anthonychavez01/cp/blob/HEAD/617/A%20-%20Elephant/solution.py) |
 | 2269A | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | 800 | [Python 3](https://github.com/anthonychavez01/cp/blob/HEAD/2269/A%20-%20SauSaGe%20Bank/solution.py) |
 | 2271A | [Robot Odd Moves](https://codeforces.com/contest/2271/problem/A) | 800 | [Python 3](https://github.com/anthonychavez01/cp/blob/HEAD/2271/A%20-%20Robot%20Odd%20Moves/solution.py) |
 
