@@ -5,6 +5,7 @@ while(j <= i):
     l = list(map(int,input().split()))
     m = 0
     odd = 0
+    
     even = 0
     while(m < n):
         
