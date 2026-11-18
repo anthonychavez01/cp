@@ -6,16 +6,17 @@
 
 | Total Problems | Topics |
 |---|---|
-| 5 | 4 |
+| 6 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [constructive algorithms](#constructive-algorithms) (1)
+- [games](#games) (1)
 - [greedy](#greedy) (1)
 - [implementation](#implementation) (2)
-- [math](#math) (3)
+- [math](#math) (4)
 
 ---
 
@@ -24,6 +25,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2271A | [Robot Odd Moves](https://codeforces.com/contest/2271/problem/A) | 800 | [Python 3](https://github.com/anthonychavez01/cp/blob/HEAD/2271/A%20-%20Robot%20Odd%20Moves/solution.py) |
+
+### games
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2261C | [I Know About a Million Things](https://codeforces.com/contest/2261/problem/C) | 1000 | [Python 3](https://github.com/anthonychavez01/cp/blob/HEAD/2261/C%20-%20I%20Know%20About%20a%20Million%20Things/solution.py) |
 
 ### greedy
 
@@ -43,6 +50,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Python 3](https://github.com/anthonychavez01/cp/blob/HEAD/617/A%20-%20Elephant/solution.py) |
+| 2261C | [I Know About a Million Things](https://codeforces.com/contest/2261/problem/C) | 1000 | [Python 3](https://github.com/anthonychavez01/cp/blob/HEAD/2261/C%20-%20I%20Know%20About%20a%20Million%20Things/solution.py) |
 | 2269A | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | 800 | [Python 3](https://github.com/anthonychavez01/cp/blob/HEAD/2269/A%20-%20SauSaGe%20Bank/solution.py) |
 | 2271A | [Robot Odd Moves](https://codeforces.com/contest/2271/problem/A) | 800 | [Python 3](https://github.com/anthonychavez01/cp/blob/HEAD/2271/A%20-%20Robot%20Odd%20Moves/solution.py) |
 
